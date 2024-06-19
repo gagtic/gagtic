@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gagtic
 - My name is Muhammad Abdul Ahad
-- 👀 I’m interested in Mobile App Development & Artificial Intelligence
-- 🌱 I’m currently learning Full Stack Development
-- 💞️ I’m looking to collaborate on Mobile based Image Processing & Artificial Intelligence Projects
+- 👀 I’m interested in React Native & Full Stack Development
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Full Stack & Artificial Intelligence Projects
 - 📫 How to reach me at 
 m_abdul.ahad@outlook.com
 https://www.linkedin.com/in/the-abdul-ahad/
