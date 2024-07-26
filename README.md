@@ -1,11 +1,13 @@
 - 👋 Hi, I’m @gagtic
 - My name is Abdul Ahad
+- </> My Portfolio website [here](https://gagtic.github.io/my-portfolio/)
 - 👀 I’m interested in React Native & Full Stack Development
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Full Stack & Artificial Intelligence Projects
-- 📫 Reach me at 
-m_abdul.ahad@outlook.com
-https://www.linkedin.com/in/the-abdul-ahad/
+- 🌱 I’m currently intersted in learning DevOps
+- 💞️ I’m looking to collaborate on Full Stack & Cross-Platform
+- 📫 Reach me via 
+[Email](mailto:m_abdul.ahad@outlook.com)
+or [LinkedIn](https://www.linkedin.com/in/the-abdul-ahad/)
+
 
 <!---
 gagtic/gagtic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
